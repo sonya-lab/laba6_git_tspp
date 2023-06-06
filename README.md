@@ -1,1 +1,1 @@
-# laba6_git_tspp
+git_laba changed by 2_reposit
